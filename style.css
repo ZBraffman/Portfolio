@@ -1,0 +1,14 @@
+p{
+    color: blue;font-size: 32 px;
+}
+div{
+    color:red;
+    background-color: black;
+    border: blanchedalmond;
+    border-width: 5px;
+    border-style: groove;
+    border-radius: 10px;
+}
+body{
+    background-color:burlywood;
+}
